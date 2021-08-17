@@ -1,6 +1,6 @@
 ### 👋 Hi
 I’m Jose Juan Jaramillo. I am an electronics and communications engineer. 
-I have been working as a R&I engineer for a while creating and designing many kind of solutions using different technologies with programming and electronics.
+I have been working as a R&D engineer for a while creating and designing many kind of solutions using different technologies with programming and electronics.
 
 ### 👀 I’m interested in ...
 * Electronics, microcontrollers, FPGA, AC/DC, PCB design, ...
